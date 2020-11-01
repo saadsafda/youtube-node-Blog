@@ -1,23 +1,19 @@
 {
-  "name": "blog",
+  "name": "node-Blog",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/saadsafda/youtube-node-Blog.git"
-  },
-  "author": "saad",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/saadsafda/youtube-node-Blog/issues"
-  },
-  "homepage": "https://github.com/saadsafda/youtube-node-Blog#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.5",
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
